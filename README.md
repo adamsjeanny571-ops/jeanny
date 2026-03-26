@@ -7,3 +7,4 @@ while (decimal > 0) {
 } 
 
 return binary; 
+ 
